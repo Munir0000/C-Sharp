@@ -1,0 +1,22 @@
+C:\Users\omen 15x\source\repos\Calculator_Complete\Calculator_Complete\bin\Debug\Calculator_Complete.exe.config
+C:\Users\omen 15x\source\repos\Calculator_Complete\Calculator_Complete\bin\Debug\Calculator_Complete.exe
+C:\Users\omen 15x\source\repos\Calculator_Complete\Calculator_Complete\bin\Debug\Calculator_Complete.pdb
+C:\Users\omen 15x\source\repos\Calculator_Complete\Calculator_Complete\obj\Debug\Calculator_Complete.csproj.AssemblyReference.cache
+C:\Users\omen 15x\source\repos\Calculator_Complete\Calculator_Complete\obj\Debug\Calculator_Complete.csproj.SuggestedBindingRedirects.cache
+C:\Users\omen 15x\source\repos\Calculator_Complete\Calculator_Complete\obj\Debug\Calculator_Complete.Form1.resources
+C:\Users\omen 15x\source\repos\Calculator_Complete\Calculator_Complete\obj\Debug\Calculator_Complete.Properties.Resources.resources
+C:\Users\omen 15x\source\repos\Calculator_Complete\Calculator_Complete\obj\Debug\Calculator_Complete.csproj.GenerateResource.cache
+C:\Users\omen 15x\source\repos\Calculator_Complete\Calculator_Complete\obj\Debug\Calculator_Complete.csproj.CoreCompileInputs.cache
+C:\Users\omen 15x\source\repos\Calculator_Complete\Calculator_Complete\obj\Debug\Calculator_Complete.exe
+C:\Users\omen 15x\source\repos\Calculator_Complete\Calculator_Complete\obj\Debug\Calculator_Complete.pdb
+C:\Users\omen 15x\Desktop\Web Dev\C# Projects Of Munir\C# programs\Calculator_Complete\Calculator_Complete\bin\Debug\Calculator_Complete.exe.config
+C:\Users\omen 15x\Desktop\Web Dev\C# Projects Of Munir\C# programs\Calculator_Complete\Calculator_Complete\bin\Debug\Calculator_Complete.exe
+C:\Users\omen 15x\Desktop\Web Dev\C# Projects Of Munir\C# programs\Calculator_Complete\Calculator_Complete\bin\Debug\Calculator_Complete.pdb
+C:\Users\omen 15x\Desktop\Web Dev\C# Projects Of Munir\C# programs\Calculator_Complete\Calculator_Complete\obj\Debug\Calculator_Complete.csproj.AssemblyReference.cache
+C:\Users\omen 15x\Desktop\Web Dev\C# Projects Of Munir\C# programs\Calculator_Complete\Calculator_Complete\obj\Debug\Calculator_Complete.csproj.SuggestedBindingRedirects.cache
+C:\Users\omen 15x\Desktop\Web Dev\C# Projects Of Munir\C# programs\Calculator_Complete\Calculator_Complete\obj\Debug\Calculator_Complete.Form1.resources
+C:\Users\omen 15x\Desktop\Web Dev\C# Projects Of Munir\C# programs\Calculator_Complete\Calculator_Complete\obj\Debug\Calculator_Complete.Properties.Resources.resources
+C:\Users\omen 15x\Desktop\Web Dev\C# Projects Of Munir\C# programs\Calculator_Complete\Calculator_Complete\obj\Debug\Calculator_Complete.csproj.GenerateResource.cache
+C:\Users\omen 15x\Desktop\Web Dev\C# Projects Of Munir\C# programs\Calculator_Complete\Calculator_Complete\obj\Debug\Calculator_Complete.csproj.CoreCompileInputs.cache
+C:\Users\omen 15x\Desktop\Web Dev\C# Projects Of Munir\C# programs\Calculator_Complete\Calculator_Complete\obj\Debug\Calculator_Complete.exe
+C:\Users\omen 15x\Desktop\Web Dev\C# Projects Of Munir\C# programs\Calculator_Complete\Calculator_Complete\obj\Debug\Calculator_Complete.pdb
