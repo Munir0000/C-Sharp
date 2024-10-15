@@ -1,7 +1,8 @@
 # 🧮 Simple Calculator (WinForms) in C#
 
 ## UI
-**![Image Alt text](Images/ui1.jpg)**
+**![Image Alt text](Images/Calculator.png)**
+
 ## Overview
 A basic **Windows Forms** calculator application built with **C#**, capable of performing simple arithmetic operations like addition, subtraction, multiplication, and division.
 
